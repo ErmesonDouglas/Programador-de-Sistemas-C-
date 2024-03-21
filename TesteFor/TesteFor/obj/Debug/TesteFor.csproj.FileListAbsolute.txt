@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\TesteFor\TesteFor\bin\Debug\TesteFor.exe.config
+C:\Users\Aluno\source\repos\TesteFor\TesteFor\bin\Debug\TesteFor.exe
+C:\Users\Aluno\source\repos\TesteFor\TesteFor\bin\Debug\TesteFor.pdb
+C:\Users\Aluno\source\repos\TesteFor\TesteFor\obj\Debug\TesteFor.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\TesteFor\TesteFor\obj\Debug\TesteFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\TesteFor\TesteFor\obj\Debug\TesteFor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\TesteFor\TesteFor\obj\Debug\TesteFor.exe
+C:\Users\Aluno\source\repos\TesteFor\TesteFor\obj\Debug\TesteFor.pdb

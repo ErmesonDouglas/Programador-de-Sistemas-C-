@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\progressao geometrica usando o for\progressao geometrica usando o for\bin\Debug\progressao geometrica usando o for.exe.config
+C:\Users\Aluno\source\repos\progressao geometrica usando o for\progressao geometrica usando o for\bin\Debug\progressao geometrica usando o for.exe
+C:\Users\Aluno\source\repos\progressao geometrica usando o for\progressao geometrica usando o for\bin\Debug\progressao geometrica usando o for.pdb
+C:\Users\Aluno\source\repos\progressao geometrica usando o for\progressao geometrica usando o for\obj\Debug\progressao geometrica usando o for.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\progressao geometrica usando o for\progressao geometrica usando o for\obj\Debug\progressao geometrica usando o for.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\progressao geometrica usando o for\progressao geometrica usando o for\obj\Debug\progressao geometrica usando o for.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\progressao geometrica usando o for\progressao geometrica usando o for\obj\Debug\progressao geometrica usando o for.exe
+C:\Users\Aluno\source\repos\progressao geometrica usando o for\progressao geometrica usando o for\obj\Debug\progressao geometrica usando o for.pdb

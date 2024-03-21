@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\rpgsenac\rpgsenac\bin\Debug\rpgsenac.exe.config
+C:\Users\Aluno\source\repos\rpgsenac\rpgsenac\bin\Debug\rpgsenac.exe
+C:\Users\Aluno\source\repos\rpgsenac\rpgsenac\bin\Debug\rpgsenac.pdb
+C:\Users\Aluno\source\repos\rpgsenac\rpgsenac\obj\Debug\rpgsenac.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\rpgsenac\rpgsenac\obj\Debug\rpgsenac.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\rpgsenac\rpgsenac\obj\Debug\rpgsenac.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\rpgsenac\rpgsenac\obj\Debug\rpgsenac.exe
+C:\Users\Aluno\source\repos\rpgsenac\rpgsenac\obj\Debug\rpgsenac.pdb

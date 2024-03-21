@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "achei os nomes for and arrays", "achei os nomes for and arrays\achei os nomes for and arrays.csproj", "{51E1EC35-1904-4F74-A789-14DB653DCB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E1EC35-1904-4F74-A789-14DB653DCB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E1EC35-1904-4F74-A789-14DB653DCB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E1EC35-1904-4F74-A789-14DB653DCB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E1EC35-1904-4F74-A789-14DB653DCB90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D53E4E5-3E54-40EB-843F-18A626E53FBC}
+	EndGlobalSection
+EndGlobal

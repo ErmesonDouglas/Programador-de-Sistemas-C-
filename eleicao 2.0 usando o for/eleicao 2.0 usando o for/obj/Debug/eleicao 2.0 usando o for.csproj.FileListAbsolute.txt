@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\eleicao 2.0 usando o for\eleicao 2.0 usando o for\bin\Debug\eleicao 2.0 usando o for.exe.config
+C:\Users\Aluno\source\repos\eleicao 2.0 usando o for\eleicao 2.0 usando o for\bin\Debug\eleicao 2.0 usando o for.exe
+C:\Users\Aluno\source\repos\eleicao 2.0 usando o for\eleicao 2.0 usando o for\bin\Debug\eleicao 2.0 usando o for.pdb
+C:\Users\Aluno\source\repos\eleicao 2.0 usando o for\eleicao 2.0 usando o for\obj\Debug\eleicao 2.0 usando o for.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\eleicao 2.0 usando o for\eleicao 2.0 usando o for\obj\Debug\eleicao 2.0 usando o for.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\eleicao 2.0 usando o for\eleicao 2.0 usando o for\obj\Debug\eleicao 2.0 usando o for.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\eleicao 2.0 usando o for\eleicao 2.0 usando o for\obj\Debug\eleicao 2.0 usando o for.exe
+C:\Users\Aluno\source\repos\eleicao 2.0 usando o for\eleicao 2.0 usando o for\obj\Debug\eleicao 2.0 usando o for.pdb

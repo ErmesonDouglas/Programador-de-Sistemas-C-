@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\Prova de resp e gabarito com arrays\Prova de resp e gabarito com arrays\bin\Debug\Prova de resp e gabarito com arrays.exe.config
+C:\Users\Aluno\source\repos\Prova de resp e gabarito com arrays\Prova de resp e gabarito com arrays\bin\Debug\Prova de resp e gabarito com arrays.exe
+C:\Users\Aluno\source\repos\Prova de resp e gabarito com arrays\Prova de resp e gabarito com arrays\bin\Debug\Prova de resp e gabarito com arrays.pdb
+C:\Users\Aluno\source\repos\Prova de resp e gabarito com arrays\Prova de resp e gabarito com arrays\obj\Debug\Prova de resp e gabarito com arrays.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Prova de resp e gabarito com arrays\Prova de resp e gabarito com arrays\obj\Debug\Prova de resp e gabarito com arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Prova de resp e gabarito com arrays\Prova de resp e gabarito com arrays\obj\Debug\Prova de resp e gabarito com arrays.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Prova de resp e gabarito com arrays\Prova de resp e gabarito com arrays\obj\Debug\Prova de resp e gabarito com arrays.exe
+C:\Users\Aluno\source\repos\Prova de resp e gabarito com arrays\Prova de resp e gabarito com arrays\obj\Debug\Prova de resp e gabarito com arrays.pdb

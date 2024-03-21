@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\tabuada x 10 while\tabuada x 10 while\bin\Debug\tabuada x 10 while.exe.config
+C:\Users\Aluno\source\repos\tabuada x 10 while\tabuada x 10 while\bin\Debug\tabuada x 10 while.exe
+C:\Users\Aluno\source\repos\tabuada x 10 while\tabuada x 10 while\bin\Debug\tabuada x 10 while.pdb
+C:\Users\Aluno\source\repos\tabuada x 10 while\tabuada x 10 while\obj\Debug\tabuada x 10 while.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\tabuada x 10 while\tabuada x 10 while\obj\Debug\tabuada x 10 while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\tabuada x 10 while\tabuada x 10 while\obj\Debug\tabuada x 10 while.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\tabuada x 10 while\tabuada x 10 while\obj\Debug\tabuada x 10 while.exe
+C:\Users\Aluno\source\repos\tabuada x 10 while\tabuada x 10 while\obj\Debug\tabuada x 10 while.pdb

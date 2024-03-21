@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\Numeros pares e impares arrays and for\Numeros pares e impares arrays and for\obj\Debug\Numeros pares e impares arrays and for.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Numeros pares e impares arrays and for\Numeros pares e impares arrays and for\obj\Debug\Numeros pares e impares arrays and for.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Numeros pares e impares arrays and for\Numeros pares e impares arrays and for\obj\Debug\Numeros pares e impares arrays and for.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Numeros pares e impares arrays and for\Numeros pares e impares arrays and for\bin\Debug\Numeros pares e impares arrays and for.exe.config
+C:\Users\Aluno\source\repos\Numeros pares e impares arrays and for\Numeros pares e impares arrays and for\bin\Debug\Numeros pares e impares arrays and for.exe
+C:\Users\Aluno\source\repos\Numeros pares e impares arrays and for\Numeros pares e impares arrays and for\bin\Debug\Numeros pares e impares arrays and for.pdb
+C:\Users\Aluno\source\repos\Numeros pares e impares arrays and for\Numeros pares e impares arrays and for\obj\Debug\Numeros pares e impares arrays and for.exe
+C:\Users\Aluno\source\repos\Numeros pares e impares arrays and for\Numeros pares e impares arrays and for\obj\Debug\Numeros pares e impares arrays and for.pdb

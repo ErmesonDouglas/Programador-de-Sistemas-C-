@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\sangue\sangue\obj\Debug\sangue.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\sangue\sangue\obj\Debug\sangue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\sangue\sangue\obj\Debug\sangue.Form1.resources
+C:\Users\Aluno\source\repos\sangue\sangue\obj\Debug\sangue.Properties.Resources.resources
+C:\Users\Aluno\source\repos\sangue\sangue\obj\Debug\sangue.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\sangue\sangue\obj\Debug\sangue.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\sangue\sangue\bin\Debug\sangue.exe.config
+C:\Users\Aluno\source\repos\sangue\sangue\bin\Debug\sangue.exe
+C:\Users\Aluno\source\repos\sangue\sangue\bin\Debug\sangue.pdb
+C:\Users\Aluno\source\repos\sangue\sangue\obj\Debug\sangue.exe
+C:\Users\Aluno\source\repos\sangue\sangue\obj\Debug\sangue.pdb

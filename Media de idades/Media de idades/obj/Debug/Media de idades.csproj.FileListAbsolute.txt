@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\Media de idades\Media de idades\bin\Debug\Media de idades.exe.config
+C:\Users\Aluno\source\repos\Media de idades\Media de idades\bin\Debug\Media de idades.exe
+C:\Users\Aluno\source\repos\Media de idades\Media de idades\bin\Debug\Media de idades.pdb
+C:\Users\Aluno\source\repos\Media de idades\Media de idades\obj\Debug\Media de idades.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Media de idades\Media de idades\obj\Debug\Media de idades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Media de idades\Media de idades\obj\Debug\Media de idades.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Media de idades\Media de idades\obj\Debug\Media de idades.exe
+C:\Users\Aluno\source\repos\Media de idades\Media de idades\obj\Debug\Media de idades.pdb

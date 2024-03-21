@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\WhileFor\WhileFor\bin\Debug\WhileFor.exe.config
+C:\Users\Aluno\source\repos\WhileFor\WhileFor\bin\Debug\WhileFor.exe
+C:\Users\Aluno\source\repos\WhileFor\WhileFor\bin\Debug\WhileFor.pdb
+C:\Users\Aluno\source\repos\WhileFor\WhileFor\obj\Debug\WhileFor.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\WhileFor\WhileFor\obj\Debug\WhileFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\WhileFor\WhileFor\obj\Debug\WhileFor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WhileFor\WhileFor\obj\Debug\WhileFor.exe
+C:\Users\Aluno\source\repos\WhileFor\WhileFor\obj\Debug\WhileFor.pdb
+C:\Users\Aluno\Music\MeuProjetoMenu\maven\escola\Programador-de-Sistemas-C-\WhileFor\WhileFor\bin\Debug\WhileFor.exe.config
+C:\Users\Aluno\Music\MeuProjetoMenu\maven\escola\Programador-de-Sistemas-C-\WhileFor\WhileFor\bin\Debug\WhileFor.exe
+C:\Users\Aluno\Music\MeuProjetoMenu\maven\escola\Programador-de-Sistemas-C-\WhileFor\WhileFor\bin\Debug\WhileFor.pdb
+C:\Users\Aluno\Music\MeuProjetoMenu\maven\escola\Programador-de-Sistemas-C-\WhileFor\WhileFor\obj\Debug\WhileFor.csproj.AssemblyReference.cache
+C:\Users\Aluno\Music\MeuProjetoMenu\maven\escola\Programador-de-Sistemas-C-\WhileFor\WhileFor\obj\Debug\WhileFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Music\MeuProjetoMenu\maven\escola\Programador-de-Sistemas-C-\WhileFor\WhileFor\obj\Debug\WhileFor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Music\MeuProjetoMenu\maven\escola\Programador-de-Sistemas-C-\WhileFor\WhileFor\obj\Debug\WhileFor.exe
+C:\Users\Aluno\Music\MeuProjetoMenu\maven\escola\Programador-de-Sistemas-C-\WhileFor\WhileFor\obj\Debug\WhileFor.pdb

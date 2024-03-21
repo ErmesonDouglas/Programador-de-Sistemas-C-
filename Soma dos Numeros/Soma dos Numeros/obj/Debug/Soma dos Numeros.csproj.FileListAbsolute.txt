@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\Soma dos Numeros\Soma dos Numeros\bin\Debug\Soma dos Numeros.exe.config
+C:\Users\Aluno\source\repos\Soma dos Numeros\Soma dos Numeros\bin\Debug\Soma dos Numeros.exe
+C:\Users\Aluno\source\repos\Soma dos Numeros\Soma dos Numeros\bin\Debug\Soma dos Numeros.pdb
+C:\Users\Aluno\source\repos\Soma dos Numeros\Soma dos Numeros\obj\Debug\Soma dos Numeros.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Soma dos Numeros\Soma dos Numeros\obj\Debug\Soma dos Numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Soma dos Numeros\Soma dos Numeros\obj\Debug\Soma dos Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Soma dos Numeros\Soma dos Numeros\obj\Debug\Soma dos Numeros.exe
+C:\Users\Aluno\source\repos\Soma dos Numeros\Soma dos Numeros\obj\Debug\Soma dos Numeros.pdb

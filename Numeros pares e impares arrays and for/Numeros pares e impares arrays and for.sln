@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeros pares e impares arrays and for", "Numeros pares e impares arrays and for\Numeros pares e impares arrays and for.csproj", "{8312D715-44A5-4E71-8B1E-134608B01CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8312D715-44A5-4E71-8B1E-134608B01CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8312D715-44A5-4E71-8B1E-134608B01CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8312D715-44A5-4E71-8B1E-134608B01CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8312D715-44A5-4E71-8B1E-134608B01CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E70347-DAC9-4CD0-B843-F22510E16E70}
+	EndGlobalSection
+EndGlobal

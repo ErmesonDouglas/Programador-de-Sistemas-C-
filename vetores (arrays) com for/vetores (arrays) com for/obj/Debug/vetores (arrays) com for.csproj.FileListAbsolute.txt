@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\vetores (arrays) com for\vetores (arrays) com for\bin\Debug\vetores (arrays) com for.exe.config
+C:\Users\Aluno\source\repos\vetores (arrays) com for\vetores (arrays) com for\bin\Debug\vetores (arrays) com for.exe
+C:\Users\Aluno\source\repos\vetores (arrays) com for\vetores (arrays) com for\bin\Debug\vetores (arrays) com for.pdb
+C:\Users\Aluno\source\repos\vetores (arrays) com for\vetores (arrays) com for\obj\Debug\vetores (arrays) com for.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\vetores (arrays) com for\vetores (arrays) com for\obj\Debug\vetores (arrays) com for.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\vetores (arrays) com for\vetores (arrays) com for\obj\Debug\vetores (arrays) com for.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\vetores (arrays) com for\vetores (arrays) com for\obj\Debug\vetores (arrays) com for.exe
+C:\Users\Aluno\source\repos\vetores (arrays) com for\vetores (arrays) com for\obj\Debug\vetores (arrays) com for.pdb

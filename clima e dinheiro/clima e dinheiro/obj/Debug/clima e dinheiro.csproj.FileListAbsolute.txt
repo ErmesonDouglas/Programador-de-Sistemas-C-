@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\bin\Debug\clima e dinheiro.exe.config
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\bin\Debug\clima e dinheiro.exe
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\bin\Debug\clima e dinheiro.pdb
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\obj\Debug\clima e dinheiro.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\obj\Debug\clima e dinheiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\obj\Debug\clima_e_dinheiro.Form1.resources
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\obj\Debug\clima_e_dinheiro.Properties.Resources.resources
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\obj\Debug\clima e dinheiro.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\obj\Debug\clima e dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\obj\Debug\clima e dinheiro.exe
+C:\Users\Aluno\source\repos\clima e dinheiro\clima e dinheiro\obj\Debug\clima e dinheiro.pdb

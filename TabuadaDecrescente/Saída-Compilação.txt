@@ -1,0 +1,4 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: TabuadaDecrescente, Configuração: Debug Any CPU ------
+1>  TabuadaDecrescente -> C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\bin\Debug\TabuadaDecrescente.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========

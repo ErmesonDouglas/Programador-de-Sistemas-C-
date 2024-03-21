@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\achei os nomes for and arrays\achei os nomes for and arrays\bin\Debug\achei os nomes for and arrays.exe.config
+C:\Users\Aluno\source\repos\achei os nomes for and arrays\achei os nomes for and arrays\bin\Debug\achei os nomes for and arrays.exe
+C:\Users\Aluno\source\repos\achei os nomes for and arrays\achei os nomes for and arrays\bin\Debug\achei os nomes for and arrays.pdb
+C:\Users\Aluno\source\repos\achei os nomes for and arrays\achei os nomes for and arrays\obj\Debug\achei os nomes for and arrays.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\achei os nomes for and arrays\achei os nomes for and arrays\obj\Debug\achei os nomes for and arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\achei os nomes for and arrays\achei os nomes for and arrays\obj\Debug\achei os nomes for and arrays.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\achei os nomes for and arrays\achei os nomes for and arrays\obj\Debug\achei os nomes for and arrays.exe
+C:\Users\Aluno\source\repos\achei os nomes for and arrays\achei os nomes for and arrays\obj\Debug\achei os nomes for and arrays.pdb

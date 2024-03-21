@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\bin\Debug\TabuadaDecrescente.exe.config
+C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\bin\Debug\TabuadaDecrescente.exe
+C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\bin\Debug\TabuadaDecrescente.pdb
+C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\obj\Debug\TabuadaDecrescente.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\obj\Debug\TabuadaDecrescente.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\obj\Debug\TabuadaDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\obj\Debug\TabuadaDecrescente.exe
+C:\Users\Aluno\source\repos\TabuadaDecrescente\TabuadaDecrescente\obj\Debug\TabuadaDecrescente.pdb
