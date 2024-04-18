@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\bancodetalentos\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|d:\\users\\aluno\\downloads\\projeto senac 1.0\\bancodetalentos\\bancodetalentos\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\bancodetalentos\\curriculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\curriculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\bancodetalentos\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\bancodetalentos\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\bancodetalentos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\bancodetalentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\bancodetalentos\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\bancodetalentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ECE0CF-E592-47B0-9296-9C0F1C4AAB9F}|BancoDeTalentos\\BancoDeTalentos.csproj|solutionrelative:bancodetalentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Cadastro.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\Cadastro.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Cadastro.cs",
+              "RelativeToolTip": "BancoDeTalentos\\Cadastro.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAnwC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:04:50.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Form1.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Form1.cs [Design]",
+              "RelativeToolTip": "BancoDeTalentos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:44:59.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Form1.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Form1.cs",
+              "RelativeToolTip": "BancoDeTalentos\\Form1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:48:01.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\DashBoard.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\DashBoard.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\DashBoard.cs [Design]",
+              "RelativeToolTip": "BancoDeTalentos\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:39:57.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\DashBoard.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\DashBoard.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\DashBoard.cs",
+              "RelativeToolTip": "BancoDeTalentos\\DashBoard.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:55:09.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Banco.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\Banco.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Banco.cs",
+              "RelativeToolTip": "BancoDeTalentos\\Banco.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAASwGIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:06:12.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Usuario.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\Usuario.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Usuario.cs",
+              "RelativeToolTip": "BancoDeTalentos\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:45:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Cadastro.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\Cadastro.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Cadastro.cs [Design]",
+              "RelativeToolTip": "BancoDeTalentos\\Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:17:28.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curriculo.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Curriculo.cs",
+              "RelativeDocumentMoniker": "BancoDeTalentos\\Curriculo.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Downloads\\Projeto Senac 1.0\\BancoDeTalentos\\BancoDeTalentos\\Curriculo.cs",
+              "RelativeToolTip": "BancoDeTalentos\\Curriculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:10:59.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

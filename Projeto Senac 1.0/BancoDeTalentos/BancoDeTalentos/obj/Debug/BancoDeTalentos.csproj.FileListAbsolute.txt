@@ -1,0 +1,56 @@
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.exe.config
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.exe
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.pdb
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.AssemblyReference.cache
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.Form1.resources
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.Properties.Resources.resources
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.exe
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.pdb
+D:\Users\Aluno\Documents\Programador de sistemas ermeson\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.DashBoard.resources
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.exe.config
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.exe
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.pdb
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.AssemblyReference.cache
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.DashBoard.resources
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.Form1.resources
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.Properties.Resources.resources
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.GenerateResource.cache
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.exe
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.pdb
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\EntityFramework.dll
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SqlClient.dll
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SQLite.dll
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\EntityFramework.xml
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SqlClient.xml
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SQLite.xml
+D:\Users\Aluno\Downloads\Projeto Senac\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeT.D1D632BA.Up2Date
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.exe.config
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.exe
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\BancoDeTalentos.pdb
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\EntityFramework.dll
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SqlClient.dll
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SQLite.dll
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\EntityFramework.xml
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SqlClient.xml
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\bin\Debug\System.Data.SQLite.xml
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.AssemblyReference.cache
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.Cadastro.resources
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.DashBoard.resources
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.Form1.resources
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.Properties.Resources.resources
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.GenerateResource.cache
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeT.D1D632BA.Up2Date
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.exe
+D:\Users\Aluno\Downloads\Projeto Senac 1.0\BancoDeTalentos\BancoDeTalentos\obj\Debug\BancoDeTalentos.pdb
